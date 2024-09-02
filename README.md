@@ -8,8 +8,8 @@ Engineering Student & Python Developer
 
 
 
-- Discord - [ItzYuno.ゞ 🖤#2358](https://discord.com/users/221023167492128768)
-- Instagram - [itz_yuno_o](https://instagram.com/itz_yuno_o)
+- Discord - [yxrs_spartan](https://discord.com/users/944907044702552095)
+- Instagram - [yxrs_spartan](https://instagram.com/yxrs_spartan)
 
 ## Visitors
 ![𝖫𝖺𝗓𝗒 ＳＰＡＲＴＡＮ
