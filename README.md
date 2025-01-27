@@ -32,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yxrsspartan&show_icons=true&locale=en&layout=compact" alt="yxrsspartan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yxrsspartan&show_icons=true&locale=en" alt="yxrsspartan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxrsspartan&" alt="yxrsspartan" /></p>
-[discord](https://discord.com/channels/1317781382608457778/1333484116305248379)
