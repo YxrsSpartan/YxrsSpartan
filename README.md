@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SPARTAN</h1>
+[<h1 align="center">Hi 👋, I'm SPARTAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxrsspartan&label=Profile%20views&color=0e75b6&style=flat" alt="yxrsspartan" /> </p>
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yxrsspartan&show_icons=true&locale=en" alt="yxrsspartan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxrsspartan&" alt="yxrsspartan" /></p>
+](https://discord.com/channels/1317781382608457778/1333484116305248379)
