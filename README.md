@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/himangshu-saikia-337ab32b4" target="_blank">
+  <a href="https://in.linkedin.com/in/SPARTAN.ゞ-337ab32b4" target="_blank">
     <img src="https://img.shields.io/badge/-Himangshu_Saikia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/0xhimangshu" target="_blank">
@@ -22,23 +22,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/0xhimangshu/advise-generator">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=advise-generator&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
-  </a>
-  <a href="https://github.com/0xhimangshu/saavn.py">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=saavn.py&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
-  </a>
-<!--   <a href="https://github.com/0xhimangshu/Boult">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=Boult&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
-  </a> -->
-  <a href="https://github.com/0xhimangshu/quiz-cli">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=quiz-cli&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
-  </a>
-</div>
 
 <div align="center">
-  <h2>🛠️ Tech Arsenal</h2>
+  <h2>🛠️ Tech Spartan</h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 <div align="center" style="background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; margin: 20px 0; display: flex; justify-content: space-around; flex-wrap: wrap;">
