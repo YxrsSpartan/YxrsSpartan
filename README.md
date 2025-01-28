@@ -12,8 +12,8 @@
   <a href="https://in.linkedin.com/in/SPARTAN.ゞ-337ab32b4" target="_blank">
     <img src="https://img.shields.io/badge/-Himangshu_Saikia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/0xhimangshu" target="_blank">
-    <img src="https://img.shields.io/badge/-0xhimangshu-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://twitter.com/spartan" target="_blank">
+    <img src="https://img.shields.io/badge/-SPARTAN.ゞ-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 </div>
 
@@ -64,17 +64,17 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhimangshu&layout=compact">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xhimangshu&show_icons=true&count_private=true&hide_border=true&title_color=2E9EFF&icon_color=2E9EFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhimangshu&hide_border=true&theme=transparent&background=0D1117&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF&currStreakNum=FFFFFF&sideNums=2E9EFF&currStreakLabel=2E9EFF&sideLabels=2E9EFF&dates=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARTAN.ゞ&layout=compact">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SPARTAN.ゞ&show_icons=true&count_private=true&hide_border=true&title_color=2E9EFF&icon_color=2E9EFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SPARTAN.ゞ&hide_border=true&theme=transparent&background=0D1117&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF&currStreakNum=FFFFFF&sideNums=2E9EFF&currStreakLabel=2E9EFF&sideLabels=2E9EFF&dates=FFFFFF"/>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img width="90%" style="border-radius: 10px;" src="https://leetcard.jacoblin.cool/0xhimangshu?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+  <img width="90%" style="border-radius: 10px;" src="https://leetcard.jacoblin.cool/SPARTAN.ゞ?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xhimangshu&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SPARTAN.ゞ&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
 </div>
 
 
@@ -83,5 +83,5 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 <div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=0xhimangshu&style=for-the-badge&color=2E9EFF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SPARTAN.ゞ&style=for-the-badge&color=2E9EFF" alt="Profile Views"/>
 </div>
