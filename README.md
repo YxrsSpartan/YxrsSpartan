@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20Himangshu%20Saikia&fontSize=50&fontAlignY=35&animation=twinkling&desc=Self-taught%20Developer%20|%20High%20School%20Student&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20SPARTAN%20Saikia&fontSize=50&fontAlignY=35&animation=twinkling&desc=Self-taught%20Developer%20|%20High%20School%20Student&descAlignY=55"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=950&lines=Self-taught+Developer+%7C+Open+Source+Enthusiast;High+School+Student+%7C+Exploring+New+Technologies+%26+Best+Practices" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://in.linkedin.com/in/SPARTAN.ゞ-337ab32b4" target="_blank">
-    <img src="https://img.shields.io/badge/-Himangshu_Saikia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SPARTAN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/spartan" target="_blank">
     <img src="https://img.shields.io/badge/-SPARTAN.ゞ-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
@@ -56,25 +56,6 @@
     <h3>IDE & Editors</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
   </div>
-</div>
-
-<div align="center">
-  <h2>📊 Performance Metrics</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARTAN.ゞ&layout=compact">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SPARTAN.ゞ&show_icons=true&count_private=true&hide_border=true&title_color=2E9EFF&icon_color=2E9EFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SPARTAN.ゞ&hide_border=true&theme=transparent&background=0D1117&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF&currStreakNum=FFFFFF&sideNums=2E9EFF&currStreakLabel=2E9EFF&sideLabels=2E9EFF&dates=FFFFFF"/>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img width="90%" style="border-radius: 10px;" src="https://leetcard.jacoblin.cool/SPARTAN.ゞ?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=SPARTAN.ゞ&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
 </div>
 
 
