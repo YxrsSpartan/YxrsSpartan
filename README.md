@@ -1,4 +1,4 @@
-<img width=100% title="SPARTAN .ゞ" alt="SPARTAN .ゞL" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="SPARTAN .ゞ" alt="SPARTAN .ゞL" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SPARTAN-:mending_heart:-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
