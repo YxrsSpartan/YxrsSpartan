@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20SPARTAN%20Saikia&fontSize=50&fontAlignY=35&animation=twinkling&desc=Self-taught%20Developer%20|%20High%20School%20Student&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20SPARTAN%20xD&fontSize=50&fontAlignY=35&animation=twinkling&desc=Self-taught%20Developer%20|%20High%20School%20Student&descAlignY=55"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=950&lines=Self-taught+Developer+%7C+Open+Source+Enthusiast;High+School+Student+%7C+Exploring+New+Technologies+%26+Best+Practices" alt="Typing SVG" />
